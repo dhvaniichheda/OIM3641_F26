@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on
-@author: advikarathi
 """
 import datetime as dt
 import dateutil as util
